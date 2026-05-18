@@ -33,4 +33,4 @@ A retro terminal-style personal developer portfolio built using **HTML and CSS**
 
 ---
 
-## 📁 Project Structure
+## 📁 Website
